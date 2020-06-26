@@ -1,0 +1,9 @@
+main:
+  - title: "ABOUT"
+    url: /about/
+  - title: "STORE"
+    url: /store/
+  - title: "CONTACT"
+    url: /contact/
+  - title: "DEV BLOG"
+    url: /game,/vr,/disc-golf/2020/06/14/dream-nerdy.html/

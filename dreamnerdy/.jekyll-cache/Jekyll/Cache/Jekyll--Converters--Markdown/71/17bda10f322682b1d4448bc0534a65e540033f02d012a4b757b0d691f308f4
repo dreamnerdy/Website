@@ -1,0 +1,18 @@
+I"Ú<p>[logo] (/images/dreamNerdyLogo_withtext.png)</p>
+<head> <nav> 
+	<ul class="masthead greedy-nav">
+	
+		<li><a href="http://127.0.0.1:4000/about/">ABOUT</a>
+		</li>
+		<li><a href="#link-2">STORE</a>
+		</li>
+		<li><a href="#http://127.0.0.1:4000/contact/">CONTACT</a>
+		</li>
+		<li><a href="/contact">CONTACT</a>
+		</li>
+		<li><a href="http://127.0.0.1:4000/game,/vr,/disc-golf/2020/06/14/dream-nerdy.html">DEV_BLOG</a>
+		</li>
+	</ul>
+</nav> </head>
+<p>Welcome everyone.</p>
+:ET
