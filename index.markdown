@@ -7,7 +7,6 @@ layout: home
 
 Welcome everyone.
 
-![logo](/images/dreamNerdyLogo.png)
 ![OffTheChainsDiscGolfVirtualReality](/images/discGolf_Logo_offTheChains.png)
 
 
