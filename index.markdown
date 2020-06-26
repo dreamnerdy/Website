@@ -7,8 +7,8 @@ layout: home
 
 Welcome everyone.
 
-[image](/images/dreamNerdyLogo.png)
-[OffTheChainsDiscGolfVirtualReality](/images/logo_OffTheChains.png)
+![logo](/images/dreamNerdyLogo.png)
+![OffTheChainsDiscGolfVirtualReality](/images/discGolf_Logo_offTheChains.png)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2s6zVlQmm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
