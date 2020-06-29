@@ -1,8 +1,8 @@
 main:
+  - title: "DISC GOLF VR"
+    url: /DISCGOLF/
   - title: "ABOUT"
     url: /about/
-  - title: "STORE"
-    url: /store/
   - title: "CONTACT"
     url: /contact/
   - title: "DEV BLOG"

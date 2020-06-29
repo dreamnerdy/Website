@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* masthead color scheme */
+.masthead, .masthead__inner-wrap, .greedy-nav { background-color: #777d88;}
+
+/* centering footer elements */
+.page__footer-follow {max-width: 350px; margin: auto;}
+.page__footer-copyright {text-align: center;}
+

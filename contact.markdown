@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "CONTACT"
 permalink: /contact/
 ---
@@ -10,11 +10,14 @@ Want to reach out to us to ask a question? Maybe just check in to see how we're 
 
 You can join in on the discussion at our discord here.
 
-Social Media
+Find us on your favorite social media:
 
-Find us on facebook here<link>, tweet to at @dreamnerdy<link>, or on reddit at /u/dreamnerdy<link>.
+reddit at /u/dreamnerdy<link>.
 
-Old Fashioned
+Find us on facebook here<link>,
 
-Want to just drop us a line? 
+tweet to at @dreamnerdy<link>, 
+
+Old Fashioned? Want to just drop us a line? 
+
 Email: contact@dreamnerdy.com

@@ -1,5 +1,7 @@
 
-<div class="page__footer-follow">
+<div style="font-style: italic; text-align: center; margin-bottom: .5em;">Come dream with us!</div>
+
+    <div class="page__footer-follow">
     <ul class="social-icons">
       {% if site.data.ui-text[site.locale].follow_label %}
         <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -12,9 +14,12 @@
           {% endif %}
         {% endfor %}
       {% endif %}
-  
+      <li><a href="#">Reddit</a></li>
+      <li><a href="#">Discord</a></li>
+      <li><a href="#">Twitter</a></li>
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     </ul>
   </div>
   
-  <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
+
+<div style="margin-top: .5em;" class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
