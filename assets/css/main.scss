@@ -11,7 +11,7 @@
 .masthead, .masthead__inner-wrap, .greedy-nav { background-color: #565f76;}
 
 /* centering footer elements */
-.page__footer-follow {max-width: 350px; margin: auto;}
+.page__footer-follow {max-width: 500px; margin: auto;}
 .page__footer-copyright {text-align: center;}
 
 /* blog taxonomy styles */
@@ -19,3 +19,9 @@
 .taxonomy__index li a {border: none;}
 .archive__subtitle {margin-top: 0; }
 .back-to-top {margin-bottom: 5px;}
+
+/* ABOUT PAGE */
+.team {background-color: #2b303b; padding-bottom: 5px; border-radius: 50px; }
+.person_icon { width: 10%;}
+.person_Box1 {background-color: #404859; padding: 10px;}
+.person_title {padding-bottom: 5px; margin-bottom: 10px; border-bottom: 1px solid #565f76;}

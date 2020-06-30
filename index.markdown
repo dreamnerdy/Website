@@ -6,24 +6,26 @@ layout: home
 ---
 
 
-![OffTheChainsDiscGolfVirtualReality](/images/discGolf_Logo_offTheChains_inverted.png)
+![Disc Golf Virtual Reality Game](/images/logoDiscGolf_wbkg_2.png)
 
 
 
-<p style=" text-align: center;">A realistic disc golf experience in the comfort of your own home.</p>
-<img src="/images/dreamnerdylogo_inverted.png" style="width: 40%; float: left; margin-right: 2em;">
+<h4 style="text-align: center;">Play Disc Golf from the comfort of your own home.</h4>
+<a href="/images/imageExample6.png"><img src="/images/imageExample6.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; margin-left: auto;">
-    <p style="margin-top: 15%;">Play 63 baskets across 4 courses, each offering unique environments and difficulties.</p>
+    <p style="margin-top: 9%; margin-bottom: 10%; "><em>learn to throw using the familiar 4 number disc physics (speed, float, turn and fade)</em></p>
 </div>
-<br>
-<p style=" text-align: center;">Is it raining outsite? is it too hot or too cold?</p>
-<img src="/images/dreamnerdylogo.png" style="width: 40%; float: right; margin-left: 2em;">
+<h4 style=" text-align: center;">Is it raining outsite? is it too hot or too cold?</h4>
+<a href="/images/imageExample1.png"><img src="/images/imageExample1.png" style="width: 40%; float: right; margin-left: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; text-align: right;">
-    <p style="margin-top: 15%;">Connect with your friends across the world or play casually, all while practicing your disc throwing skills. </p>
+    <p style="margin-top: 9%;"><em>Play 63 baskets across 4 courses, each offering unique environments and difficulties.</em></p>
 </div>
-<p style=" text-align: center;">Most major PC VR headsets suppported!</p>
-<br>
-
+<h4 style=" text-align: center;">Most major PC VR headsets suppported!</h4>
+<a href="/images/imageExample4.png"><img src="/images/imageExample4.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
+<div style="width: 60%; margin-left: auto;">
+    <p style="margin-top: 9%; margin-bottom: 10%; "><em>Connect with your friends across the world casually, competively or just to practice.</em></p>
+</div>
+<h4 style=" text-align: center; margin-bottom: 15px;">Stay Positive and Competitive!</h4>
 
 
 

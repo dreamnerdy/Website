@@ -17,12 +17,21 @@ Everyone is Nerdy about something - you've got a passion, and we think you shoul
 
 *Stay positive and competitive*.
 
-#### Team
+<section class="team">
+<h4 style="padding-top: 5px; text-align: center;">TEAM</h4>
 
-**Justin Welch**   *Architect*
-- Head of Engeneering
 
-**Aaron Lodge**   *Artist*
-- Head of Design
+<section class="person_Box1">
+<div class="person_title">Head of Engeneering</div>
 
-Between us, we have many years of software engineering, Game Concept and visual Design experience. While we come from diverse backgrounds, each of us brings vital skills necessary for success and enjoyment.
+<img src="/images/person_icon.png" class="person_icon"> <span>Justin Welch</span> 
+</section>
+ <br>
+<section class="person_Box1">
+<div class="person_title">Head of Design</div>
+
+ <img src="/images/person_icon.png" class="person_icon" > Aaron Lodge
+</section>
+<blockquote>Between us, we have many years of software engineering, Game Concept and visual Design experience. While we come from diverse backgrounds, each of us brings vital skills necessary for success and enjoyment.
+</blockquote>
+</section>

@@ -1,9 +1,9 @@
 main:
-  - title: "DISC GOLF VR"
+  - title: "DISC GOLF"
     url: /DISCGOLF/
   - title: "ABOUT"
     url: /about/
   - title: "CONTACT"
     url: /contact/
   - title: "DEV BLOG"
-    url: /game,/vr,/disc-golf/2020/06/14/dream-nerdy.html/
+    url: /game/vr/disc-golf/2020/06/14/dream-nerdy.html/
