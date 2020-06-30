@@ -2,11 +2,11 @@
 layout: posts
 title:  "Disc Golf, Off The Chains"
 date:   2020-06-14 12:28:15 -0400
-categories: game, vr, disc-golf
+categories: game vr disc-golf
 ---
 
 *"Virtual Reality Disc Golf! Coming Soon!!!"*
-
+<img src="/images/imageExample2.png" style="margin-top: 15px; margin-bottom: 15px; border-radius: 15px;">
 Dream Nerdy is proud to announce the production of our indie game **Disc Golf, Off The Chains**, which will be an immersive light hearted Virtual Disc Golf experience. 
 
 Please enjoy this mini teaser and stay tuned for development videos and updates. 
