@@ -4,7 +4,8 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Read More" }}</h3>
+<div Style="background-color: #404859; padding: 10px; margin-top: 20px;">
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Read more" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -17,3 +18,4 @@ layout: archive
 {% endfor %}
 
 {% include paginator.html %}
+</div>

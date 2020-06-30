@@ -17,7 +17,7 @@ layout: home
 </div>
 <br>
 <p style=" text-align: center;">Is it raining outsite? is it too hot or too cold?</p>
-<img src="/images/dreamnerdylogo_inverted.png" style="width: 40%; float: right; margin-left: 2em;">
+<img src="/images/dreamnerdylogo.png" style="width: 40%; float: right; margin-left: 2em;">
 <div style="width: 60%; text-align: right;">
     <p style="margin-top: 15%;">Connect with your friends across the world or play casually, all while practicing your disc throwing skills. </p>
 </div>

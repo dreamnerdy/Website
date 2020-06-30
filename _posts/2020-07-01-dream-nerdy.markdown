@@ -12,10 +12,8 @@ Dream Nerdy is proud to announce the production of our indie game **Disc Golf, O
 Please enjoy this mini teaser and stay tuned for development videos and updates. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q2s6zVlQmm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-As our first public game release, we expect to run into bumps and turns in creating the game you most desire. But we are dedicated to listening to all of your feedback, and hope we are able to adjust when needed.
+As our first public game release, we expect to run into bumps and turns in creating the game you most desire. But we are dedicated to listening to all the feedback we can, and hope to be able to adjust when needed.
 
-As we are opening communications with the public, we will at some point soon reach out for any interested Game Testers. 
-
-Stay Tuned.
+We will soon reach out for any interested Game Testers. 
 
 *Come Dream Nerdy with us*...
