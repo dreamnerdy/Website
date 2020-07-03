@@ -6,3 +6,5 @@ https://github.com/mmistakes/minimal-mistakes
 
 https://www.w3schools.com/colors/colors_picker.asp?color=%23ffab00
 
+https://www.markdownguide.org/basic-syntax/
+
