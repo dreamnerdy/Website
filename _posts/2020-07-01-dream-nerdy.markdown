@@ -16,4 +16,3 @@ As our first public game release, we expect to run into bumps and turns in creat
 
 We will soon reach out for any interested Game Testers. 
 
-*Come Dream Nerdy with us*...

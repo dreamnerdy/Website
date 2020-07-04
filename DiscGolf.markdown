@@ -4,7 +4,7 @@ title: "Disc Golf"
 permalink: /discgolf/
 ---
 
-Links to download here, select your platform.
+Select your platform (coming soon).
 
 ![disc golf vr game screen shot](/images/imageExample1.png)
 
