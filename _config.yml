@@ -22,11 +22,11 @@ title: Dream Nerdy
 subtitle: Game Development
 email: contact@dreamnerdy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Dream Nerdy is an indie game development studio. We currently working
+  on our Virtual Reality Disc Golf Game titled Disc Golf: Off the Chains.
+  This will be available on all major VR headsets including Oculus Rift and HTC Vive.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dreamnerdy.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dreamnerdy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username: jekyll
 
@@ -42,13 +42,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/dreamnerdygames"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/dreamnerdy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/dreamnerdy"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

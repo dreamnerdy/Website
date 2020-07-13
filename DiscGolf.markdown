@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Disc Golf"
+title: "Disc Golf: Off The Chains"
 permalink: /discgolf/
 ---
 
-Select your platform (coming soon).
+Coming soon to your favorite platform.
 
 ![disc golf vr game screen shot](/images/imageExample1.png)
 
