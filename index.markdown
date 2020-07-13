@@ -29,9 +29,5 @@ layout: home
 
 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uIUt4YEVWak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q2s6zVlQmm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
