@@ -30,7 +30,7 @@ url: "https://dreamnerdy.com" # the base hostname & protocol for your site, e.g.
 twitter_username: jekyllrb
 github_username: jekyll
 
-logo: "/images/dreamNerdyLogo_1a1d24.png"
+logo: "/images/dreamNerdyLogo_1a1d24.gif"
 
 # Build settings
 theme: minimal-mistakes-jekyll
