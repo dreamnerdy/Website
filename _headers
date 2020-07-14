@@ -1,5 +1,5 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' https://www.google-analytics.com *.ytimg.com *.fontawesome.com *.youtube-nocookie.com; connect-src 'self' https://www.google-analytics.com *.youtube-nocookie.com; frame-ancestors 'none'; style-src 'self' *.youtube-nocookie.com; frame-src 'self' *.youtube-nocookie.com; img-src 'self' https://www.google-analytics.com *.ggpht.com *.ytimg.com
+  Content-Security-Policy: default-src 'self'; script-src 'self' https://www.google-analytics.com *.ytimg.com *.fontawesome.com *.youtube-nocookie.com *.netlify.app dreamnerdy.com; connect-src 'self' https://www.google-analytics.com *.youtube-nocookie.com *.netlify.app dreamnerdy.com; frame-ancestors 'none'; style-src 'self' *.youtube-nocookie.com *.netlify.app dreamnerdy.com; frame-src 'self' *.youtube-nocookie.com *.netlify.app dreamnerdy.com; img-src 'self' https://www.google-analytics.com *.ggpht.com *.ytimg.com *.netlify.app dreamnerdy.com
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   Strict-Transport-Security: max-age=86400; includeSubDomains
