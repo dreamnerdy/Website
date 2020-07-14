@@ -48,7 +48,10 @@ footer:
       url: "https://github.com/dreamnerdy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dreamnerdy"
+      url: "https://instagram.com/dreamnerdygames"
+
+include:
+  - _headers
 
 # Exclude from processing.
 # The following items will not be processed, by default.
