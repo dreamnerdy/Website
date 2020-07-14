@@ -2,3 +2,5 @@
   Content-Security-Policy: default-src 'self'; script-src 'self' https://www.google-analytics.com *.ytimg.com *.fontawesome.com *.youtube-nocookie.com; connect-src 'self' https://www.google-analytics.com *.youtube-nocookie.com; frame-ancestors 'none'; style-src 'self' *.youtube-nocookie.com; frame-src 'self' *.youtube-nocookie.com; img-src 'self' https://www.google-analytics.com *.ggpht.com *.ytimg.com
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
+  Strict-Transport-Security: max-age=86400; includeSubDomains
+  Cache-Control: public, max-age=3600
