@@ -20,10 +20,10 @@ layout: home
 <div style="width: 60%; text-align: right;">
     <p style="margin-top: 9%;"><em>At launch play 63 baskets across 4 courses - each offering unique environments and difficulties.</em></p>
 </div>
-<h4 style=" text-align: center;">Most major PC VR headsets suppported!</h4>
+<h4 style=" text-align: center;">Most major PC VR headsets supported!</h4>
 <a href="/images/imageExample4.gif"><img src="/images/imageExample4.gif" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; margin-left: auto;">
-    <p style="margin-top: 9%; margin-bottom: 10%; "><em>Connect with your friends across the world casually, competively, or just to practice.</em></p>
+    <p style="margin-top: 9%; margin-bottom: 10%; "><em>Connect with your friends across the world casually, competitively, or just to practice.</em></p>
 </div>
 <h4 style=" text-align: center; margin-bottom: 15px;">Stay Positive and Competitive!</h4>
 

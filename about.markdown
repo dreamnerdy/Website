@@ -19,7 +19,7 @@ Everyone is Nerdy about something - you've got a passion, and we think you shoul
 
 
 <section class="person_Box1">
-<div class="person_title">Head of Engeneering</div>
+<div class="person_title">Head of Engineering</div>
 
 <img src="/images/person_icon.png" class="person_icon"> <span>Justin Welch</span> 
 </section>
