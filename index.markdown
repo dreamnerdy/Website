@@ -13,15 +13,15 @@ or join our
 <a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>.
 </blockquote>
 
-<h4 style="text-align: center;">Play Disc Golf from the comfort of your own home.</h4>
+<h4 style="text-align: center;">Play Disc Golf from the comfort of your own home</h4>
 <a href="/images/imageExample6.gif"><img src="/images/imageExample6.gif" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; margin-left: auto; margin-bottom: 3em;">
     <p style="margin-top: 9%; margin-bottom: 10%; "><em>Veterans and newcomers alike will appreciate our realistic disc physics.</em></p>
 </div>
-<h4 style=" text-align: center;">Play alone or with friends and become a Pro.</h4>
+<h4 style=" text-align: center;">Play alone or with friends and become a Pro</h4>
 <a href="/images/imageExample1.gif"><img src="/images/imageExample1.gif" style="width: 40%; float: right; margin-left: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; text-align: right;">
-    <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played real-life disc golf.</em></p>
+    <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played.</em></p>
 </div>
 <hr>
 <hr>
