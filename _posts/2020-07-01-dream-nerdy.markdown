@@ -7,9 +7,14 @@ categories: game vr disc-golf
 
 *Virtual Reality Disc Golf! Coming Soon!*
 <img src="/images/imageExample2.gif" style="margin-top: 15px; margin-bottom: 15px; border-radius: 15px;">
-Dream Nerdy is proud to announce the production of our indie game **Disc Golf: Off The Chains** which will be an immersive light hearted Virtual Disc Golf experience. The game is being developed from the ground-up as a VR-first title.
+We are excited to announce the production of our new PC Virtual Reality game Disc Golf: Off The Chains. With realistic physics, beautiful landscapes, a fun progression system, and multiplayer, this game will be a blast to play alone or with friends online. 
 
-Please enjoy this mini teaser and stay tuned for development videos and updates. 
+Featuring the 4-number rating system for disc flight (speed, glide, turn and fade). You can now practice your throw in the rain (no rain included). 
+
+Play with friends across the world. Unlock new discs and disc bags. We’re gearing up for a release this Fall on Steam so feel free to wishlist us or join our discord. 
+
+Check out our teaser announcement video!
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uIUt4YEVWak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As our first public game release we expect to run into bumps and turns in creating the game you most desire. We are dedicated to listening to all the feedback we can and hope to be able to adjust when needed.
