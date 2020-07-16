@@ -1,6 +1,4 @@
 main:
-  - title: "DISC GOLF"
-    url: /DISCGOLF/
   - title: "ABOUT"
     url: /about/
   - title: "CONTACT"
