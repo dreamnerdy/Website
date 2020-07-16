@@ -18,25 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dream Nerdy
-subtitle: Game Development
-email: contact@dreamnerdy.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Dream Nerdy is an indie game development studio. We currently working
-  on our Virtual Reality Disc Golf Game titled Disc Golf: Off the Chains.
-  This will be available on all major VR headsets including Oculus Rift and HTC Vive.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dreamnerdy.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
-
-logo: "/images/dreamNerdyLogo_1a1d24.gif"
-
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
+
+title: Dream Nerdy
+subtitle: Game Development
+email: contact@dreamnerdy.com
+description: "Dream Nerdy is an indie game development studio. We are currently working on our Virtual Reality Disc Golf Game titled Disc Golf: Off The Chains. This will be available on all major VR headsets including Oculus Rift and HTC Vive."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dreamnerdy.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dreamnerdygames
+github_username: dreamnerdy
+
+logo: "/images/dreamNerdyLogo_1a1d24.gif"
 
 footer:
   links:
