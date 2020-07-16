@@ -27,7 +27,7 @@ plugins:
 title: Dream Nerdy
 subtitle: Game Development
 email: contact@dreamnerdy.com
-description: "Dream Nerdy is an indie game development studio. We currently working on our Virtual Reality Disc Golf Game titled Disc Golf: Off the Chains. This will be available on all major VR headsets including Oculus Rift and HTC Vive."
+description: "Dream Nerdy is an indie game development studio. We are currently working on our Virtual Reality Disc Golf Game titled Disc Golf: Off The Chains. This will be available on all major VR headsets including Oculus Rift and HTC Vive."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dreamnerdy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dreamnerdygames
