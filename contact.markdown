@@ -6,9 +6,9 @@ permalink: /contact/
 
 ### Discord
 
-Join in on the discussion:
-
 Want to reach out to us to ask a question? Maybe just check in to see how we're doing? Want to meet other people interested in and enjoying our products, or maybe even become a beta tester? 
+
+Join in on the discussion: <a href="https://discord.com/invite/FSPf6AK" class="btn btn--discord" title="Join us on Discord" target="_blank"><i class="fab fa-fw fa-discord" aria-hidden="true"></i></a>
 
 
 ### Social media
