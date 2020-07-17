@@ -41,6 +41,7 @@
   (twitter, $twitter-color),
   (reddit, $reddit-color),
   (instagram, $instagram-color),
+  (discord, #7289da),
   (linkedin, $linkedin-color);
 
   @each $buttoncolor, $color in $buttoncolors {
