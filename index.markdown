@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Disc Golf Virtual Reality Game](/images/logo_wBKG_discgolf.gif)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/maf_AZj2MgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote> We’re gearing up for a release this Fall so feel free to wishlist our game on
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
@@ -14,22 +14,17 @@ or join our
 </blockquote>
 
 <h4 style="text-align: center;">Play Disc Golf from the comfort of your own home</h4>
-<a href="/images/imageExample6.gif"><img src="/images/imageExample6.gif" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
+<a href="/images/18.png"><img src="/images/18.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; margin-left: auto; margin-bottom: 3em;">
     <p style="margin-top: 9%; margin-bottom: 10%; "><em>Veterans and newcomers alike will appreciate our realistic disc physics.</em></p>
 </div>
 <h4 style=" text-align: center;">Play alone or with friends and become a Pro</h4>
-<a href="/images/imageExample1.gif"><img src="/images/imageExample1.gif" style="width: 40%; float: right; margin-left: 2em; border-radius: 15px;"></a>
+<a href="/images/2.png"><img src="/images/2.png" style="width: 40%; float: right; margin-left: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; text-align: right;">
     <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played.</em></p>
 </div>
-<hr>
-<hr>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uIUt4YEVWak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-<hr>
 <h4 style="text-align: center;">All major PC VR headsets supported!</h4>
-<a href="/images/imageExample5.gif"><img src="/images/imageExample5.gif" style="border-radius: 15px;"></a>
+![Disc Golf Virtual Reality Game](/images/logo_wBKG_discgolf.gif)
 
 
 Features
@@ -48,5 +43,5 @@ Features
 <h4 style=" text-align: center; margin-bottom: 15px;">Stay Positive and Competitive!</h4>
 
 
-<a href="/images/imageExample2.gif"><img src="/images/imageExample2.gif" style=" margin-right: 2em; border-radius: 15px;"></a>
+<a href="/images/9.png"><img src="/images/9.png" style=" margin-right: 2em; border-radius: 15px;"></a>
 

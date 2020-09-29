@@ -7,7 +7,7 @@ permalink: /OTCDGpresskit/
 ## Fact Sheet
 
 - **Developer:** Dream Nerdy
-- **Release Date:** 10/15/20
+- **Release Date:** 10/29/20
 - **Platforms:** Valve Index, HTC Vive, Oculus Rift / S, Oculus Quest + Link, Windows Mixed Reality
 - **Website:** <a href="https://dreamnerdy.com/" target="_blank">dreamnerdy.com</a>
 - **Price:** USD 19.99
