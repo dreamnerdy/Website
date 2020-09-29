@@ -24,22 +24,22 @@ permalink: /OTCDGpresskit/
 <img src="/images/18.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
 Off The Chains Disc Golf is a lighthearted disc golf simulation developed for VR from the ground up. Play alone or with friends and learn how to become a disc golf pro.
 
-**Disc Physics:**
+**Disc Physics**
 
 Both disc golf veterans and newcomers alike will appreciate our realistic disc physics. Each disc has its own rating using a 4-number rating system that will be familiar to disc golf enthusiasts, but easy for newcomers to learn.
 
-**Multiplayer:**
+**Multiplayer**
 
 The best part of disc golf? Playing with your friends of course. Enjoy all playable courses with lobby-based private and public matchmaking.
 
 
-**Unlock New Items:**
+**Unlock New Items**
 
 <img src="/images/9.png" style="float: right; width: 50%; margin: 1em 0 .5em 1em; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
 
 Throughout the course of the game you will unlock new discs and new disc bags. Customize the collection that you want to take with you on your next round.
 
-**Take In The Scenery:**
+**Take In The Scenery**
 
 With multiple beautiful courses with varying biomes you may find yourself stopping to just enjoy the scenery, and there's certainly nothing wrong with that! This simulation is designed to be relaxing and enjoyable. Take all the time you need. Breathe. Throw discs. Repeat.
 
