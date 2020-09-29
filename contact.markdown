@@ -21,4 +21,4 @@ Join in on the discussion: <a href="https://discord.com/invite/FSPf6AK" class="b
 Email us: [contact@dreamnerdy.com](mailto:contact@dreamnerdy.com?Subject=Dear%20Nerds...)
 
 
-<a href="http://dreamnerdy.com/privacypolicy/">Privacy Policy</a>
+<a href="https://dreamnerdy.com/privacypolicy/">Privacy Policy</a>

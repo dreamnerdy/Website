@@ -3,7 +3,7 @@ layout: single
 title: "Press Kit for OTCDG"
 permalink: /OTCDGpresskit/
 ---
-![Off The Chains cover image](/images/CoverImageHero.png)
+![Off The Chains cover image](/images/CoverImageHeroSMALL.png)
 ## Fact Sheet
 
 - **Developer:** Dream Nerdy
@@ -69,7 +69,7 @@ Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passio
 
 ## Launch Trailer
 
-<a href="https://youtu.be/maf_AZj2MgQ" target="_blank">Trailer found on youtube</a>
+<a href="https://youtu.be/maf_AZj2MgQ" target="_blank">Trailer on youtube</a>
 
 ## Key Art and Logos
 

@@ -24,7 +24,7 @@ or join our
     <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played.</em></p>
 </div>
 <h4 style="text-align: center;">All major PC VR headsets supported!</h4>
-![Disc Golf Virtual Reality Game](/images/logo_wBKG_discgolf.gif)
+![Disc Golf Virtual Reality Game](/images/CoverImageHeroSMALL.png)
 
 
 Features

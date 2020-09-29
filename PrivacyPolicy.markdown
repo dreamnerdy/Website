@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Privacy Policy"
+title: "Privacy Policy of Dream Nerdy, LLC"
 permalink: /privacypolicy/
 ---
-<h1>Privacy Policy of Dream Nerdy, LLC</h1>
 
 <p>Dream Nerdy, LLC operates the https://dreamnerdy.com website, which provides the SERVICE. Dream Nerdy provides games through various online retailers as the SERVICE.</p>
 
