@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Press Kit"
-permalink: /presskit/
+title: "Press Kit for OTCDG"
+permalink: /OTCDGpresskit/
 ---
 ![Off The Chains cover image](/images/CoverImageHero.png)
 ## Fact Sheet
@@ -19,39 +19,45 @@ permalink: /presskit/
 - **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/dreamnerdy" title="Find Us On Facebook" target="_blank">Facebook</a>
 
 
-## description
+## Description
 
-<img src="/images/screenshot_200921_150119.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
+<img src="/images/18.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
 Off The Chains Disc Golf is a lighthearted disc golf simulation developed for VR from the ground up. Play alone or with friends and learn how to become a disc golf pro.
 
-Disc Physics
+**Disc Physics:**
+
 Both disc golf veterans and newcomers alike will appreciate our realistic disc physics. Each disc has its own rating using a 4-number rating system that will be familiar to disc golf enthusiasts, but easy for newcomers to learn.
 
-Multiplayer
+**Multiplayer:**
+
 The best part of disc golf? Playing with your friends of course. Enjoy all playable courses with lobby-based private and public matchmaking.
 
-<img src="/images/screenshot_200921_143951.png" style="float: right; width: 50%; margin: 1em 0 .5em 1em; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
-Unlock New Items
+
+**Unlock New Items:**
+
+<img src="/images/9.png" style="float: right; width: 50%; margin: 1em 0 .5em 1em; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
+
 Throughout the course of the game you will unlock new discs and new disc bags. Customize the collection that you want to take with you on your next round.
 
-Take In The Scenery
+**Take In The Scenery:**
+
 With multiple beautiful courses with varying biomes you may find yourself stopping to just enjoy the scenery, and there's certainly nothing wrong with that! This simulation is designed to be relaxing and enjoyable. Take all the time you need. Breathe. Throw discs. Repeat.
 
 ## Features
 
-Play 63 baskets across 4 courses each offering unique environments and difficulties
+- Play 63 baskets across 4 courses each offering unique environments and difficulties
 
-Easy to learn (even if you have never played real-life disc golf) but challenging to master
+- Easy to learn (even if you have never played real-life disc golf) but challenging to master
 
-Realistic disc flight physics
+- Realistic disc flight physics
 
-Discs use a 4 number rating system that will be familiar to disc golf enthusiasts (speed, glide, turn, and fade)
+- Discs use a 4 number rating system that will be familiar to disc golf enthusiasts (speed, glide, turn, and fade)
 
-Multiplayer support to connect with your friends across the world casually, competitively, or just to practice
+- Multiplayer support to connect with your friends across the world casually, competitively, or just to practice
 
-Discover new discs and disc bags as you progress through the game
+- Discover new discs and disc bags as you progress through the game
 
-<img src="/images/screenshot_200921_141439.png" style="border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
+<img src="/images/2.png" style="border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
 
 ## History
 
@@ -67,6 +73,6 @@ Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passio
 
 ## Key Art and Logos
 
-[Download Screenshots .zip](/images/DreamNerdyScreenshots.zip)
+[Download Screenshots .zip](/images/OTCDG_Screenshots.zip)
 
-[Download Logos .zip](/images/DreamNerdyLogos.zip)
+[Download Logos .zip](/images/OTCDG-DreamNerdy_Logos.zip)
