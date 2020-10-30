@@ -13,7 +13,7 @@ permalink: /OTCDGpresskit/
 - **Price:** USD 19.99
 - **Availability:** Digital download on Steam
 - **Store link:** <a href="https://store.steampowered.com/app/1372700/Off_The_Chains_Disc_Golf/" target="_blank">https://store.steampowered.com/app/1372700/Off_The_Chains_Disc_Golf/</a>
-- **Languages:** English, French, Italian, German, Spanish, Portuguese-Brazil, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese
+- **Languages:** English
 - **File Size:** 3.5GB, 2.6GB installer
 - **Press contact:** <a href="mailto:contact@dreamnerdy.com">contact@dreamnerdy.com</a>
 - **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/dreamnerdy" title="Find Us On Facebook" target="_blank">Facebook</a>
