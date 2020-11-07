@@ -4,10 +4,9 @@
 
 layout: home
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xkgdyqQV1qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/maf_AZj2MgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<blockquote> We’re gearing up for a release this Fall so feel free to wishlist our game on
+<blockquote> We’re gearing up for a release on Nov 12, 2020 so feel free to wishlist our game on
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
 or join our 
 <a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>.
@@ -40,8 +39,8 @@ Features
 <li>Discover new discs and disc bags as you progress through the game</li>
 </ul>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/maf_AZj2MgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h4 style=" text-align: center; margin-bottom: 15px;">Stay Positive and Competitive!</h4>
-
 
 <a href="/images/9.png"><img src="/images/9.png" style=" margin-right: 2em; border-radius: 15px;"></a>
 
