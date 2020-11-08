@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xkgdyqQV1qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xkgdyqQV1qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote> We’re gearing up for a release on Nov 12, 2020 so feel free to wishlist our game on
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
