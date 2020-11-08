@@ -1,13 +1,13 @@
 ---
 layout: posts
-title:  "Disc Golf: Off The Chains"
+title:  "Off The Chains Disc Golf"
 date:   2020-06-14 12:28:15 -0400
 categories: game vr disc-golf
 ---
 
 *Virtual Reality Disc Golf! Coming Soon!*
 <img src="/images/11.png" style="margin-top: 15px; margin-bottom: 15px; border-radius: 15px;">
-We are excited to announce the production of our new PC Virtual Reality game <b><em>Disc Golf: Off The Chains.</em></b> With realistic physics, beautiful landscapes, a fun progression system, and multiplayer, this game will be a blast to play alone or with friends online. 
+We are excited to announce the production of our new PC Virtual Reality game <b><em>Off The Chains Disc Golf.</em></b> With realistic physics, beautiful landscapes, a fun progression system, and multiplayer, this game will be a blast to play alone or with friends online. 
 
 Featuring the 4-number rating system for disc flight (speed, glide, turn and fade). You can now practice your throw in the rain (no rain included). 
 
