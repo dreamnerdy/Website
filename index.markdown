@@ -8,7 +8,7 @@ layout: home
 
 <blockquote> Available now on
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
-and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus<i  style="position: relative; top: 3px;" class="fab fa-fw fa-oculus" aria-hidden="true"></i></a>. Coming soon to Oculus Quest/Quest 2! Join our
+and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus Rift</a> stores. Coming soon to Oculus Quest/Quest 2! Join our
 <a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>
  for updates!
 </blockquote>
