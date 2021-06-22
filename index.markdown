@@ -4,12 +4,13 @@
 
 layout: home
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xkgdyqQV1qM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/maf_AZj2MgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<blockquote> We’re gearing up for a release on Nov 12, 2020 so feel free to wishlist our game on
+<blockquote> Available now on
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
-or join our 
-<a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>.
+and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus<i  style="position: relative; top: 3px;" class="fab fa-fw fa-oculus" aria-hidden="true"></i></a>. Coming soon to Oculus Quest/Quest 2! Join our
+<a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>
+ for updates!
 </blockquote>
 
 <h4 style="text-align: center;">Play Disc Golf from the comfort of your own home</h4>
@@ -39,7 +40,6 @@ Features
 <li>Discover new discs and disc bags as you progress through the game</li>
 </ul>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/maf_AZj2MgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h4 style=" text-align: center; margin-bottom: 15px;">Stay Positive and Competitive!</h4>
 
 <a href="/images/9.png"><img src="/images/9.png" style=" margin-right: 2em; border-radius: 15px;"></a>
