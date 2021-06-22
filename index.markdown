@@ -29,7 +29,7 @@ and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="
 
 Features
 <ul>
-<li>63 baskets across 4 courses - each offering unique environments and difficulties.</li>
+<li>117 baskets across 7 courses - each offering unique environments and difficulties.</li>
 
 <li>All playable courses have lobby-based private and public matchmaking.</li>
 
