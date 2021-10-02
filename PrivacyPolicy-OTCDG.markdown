@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Privacy Policy of Off The Chains Disc Golf"
+title: "Privacy Policy - Off The Chains Disc Golf"
 permalink: /privacypolicy-otcdg/
 ---
 
-<p>Dream Nerdy, LLC develops and publishes the game Off The Chains Disc Golf through various online retailers, hereinafter referred to as the SERVICE.</p>
+<p>Dream Nerdy, LLC develops and publishes the game Off The Chains Disc Golf available through various online retailers, hereinafter referred to as the SERVICE.</p>
 
-<p>This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
+<p>This page is used to inform users of the Service regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
 
 <p>If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
 
@@ -37,7 +37,7 @@ permalink: /privacypolicy-otcdg/
 
 <p>Children's Privacy</p>
 
-<p>Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
+<p>Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13.</p>
 
 <h2>Changes to This Privacy Policy</h2>
 
