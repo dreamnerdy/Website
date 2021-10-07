@@ -39,6 +39,10 @@ permalink: /privacypolicy-otcdg/
 
 <p>Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13.</p>
 
+<h2>Deletion of Personal Data</h2>
+
+<p>You are free to request deletion of Personal Data by emailing contact@dreamnerdy.com</p>
+
 <h2>Changes to This Privacy Policy</h2>
 
 <p>We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.</p>
