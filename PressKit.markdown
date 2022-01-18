@@ -45,7 +45,7 @@ With multiple beautiful courses with varying biomes you may find yourself stoppi
 
 ## Features
 
-- Play across 7 courses each offering unique environments and difficulties
+- Play 117 baskets across 7 courses each offering unique environments and difficulties
 
 - Easy to learn (even if you have never played real-life disc golf) but challenging to master
 
