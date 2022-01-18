@@ -21,7 +21,7 @@ and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="
 </blockquote>
 
 <h4 style="text-align: center;">Play Disc Golf from the comfort of your own home</h4>
-<a href="/images/18.png"><img src="/images/18.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
+<a href="/images/5.png"><img src="/images/5.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; margin-left: auto; margin-bottom: 3em;">
     <p style="margin-top: 14%; margin-bottom: 10%; "><em>Veterans and newcomers alike will appreciate our realistic disc physics.</em></p>
 </div>
