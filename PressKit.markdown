@@ -10,7 +10,7 @@ permalink: /OTCDGpresskit/
 - **Release Date:** March 3rd, 2022
 - **Website:** <a href="https://dreamnerdy.com/" target="_blank">dreamnerdy.com</a>
 - **Price:** USD 14.99
-- **Availability:** Digital download on App Lab via Meta Quest:
+- **Availability:** Digital download on App Lab via Meta Quest
 - **Store link (to wishlist):** <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media</a>
 - **Store link DEMO:** <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media</a>
 - **Languages:** English
