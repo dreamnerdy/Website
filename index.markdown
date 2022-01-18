@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JL72q6f4jTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JL72q6f4jTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote>Available on App Lab via Meta Quest store:
 
