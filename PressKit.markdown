@@ -11,11 +11,11 @@ permalink: /OTCDGpresskit/
 - **Platforms:** Valve Index, HTC Vive, Oculus Rift / S, Oculus Quest + Link, Windows Mixed Reality
 - **Website:** <a href="https://dreamnerdy.com/" target="_blank">dreamnerdy.com</a>
 - **Price:** USD 14.99
-- **Availability:** Digital download on App Lab and side quest
-- **Store link:** <a href="https://www.oculus.com/experiences/quest/4494077493957112/" target="_blank">https://www.oculus.com/experiences/quest/4494077493957112/</a>
-- **Store link DEMO:** <a href="https://sidequestvr.com/app/4773/off-the-chains-disc-golf-beta" target="_blank">https://sidequestvr.com/app/4773/off-the-chains-disc-golf-beta/</a>
+- **Availability:** Digital download on App Lab via Meta Quest store:
+- **Store link:** <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media</a>
+- **Store link DEMO:** <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media</a>
 - **Languages:** English
-- **File Size:** 3.5GB, 2.6GB installer
+- **File Size:** 4.88GB(full), 2.02GB(demo)
 - **Press contact:** <a href="mailto:contact@dreamnerdy.com">contact@dreamnerdy.com</a>
 - **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/dreamnerdy" title="Find Us On Facebook" target="_blank">Facebook</a>
 
