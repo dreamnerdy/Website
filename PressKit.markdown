@@ -7,12 +7,11 @@ permalink: /OTCDGpresskit/
 ## Fact Sheet
 
 - **Developer:** Dream Nerdy
-- **Release Date:** 11/12/20
-- **Platforms:** Valve Index, HTC Vive, Oculus Rift / S, Oculus Quest + Link, Windows Mixed Reality
+- **Release Date:** March 3rd, 2022
 - **Website:** <a href="https://dreamnerdy.com/" target="_blank">dreamnerdy.com</a>
 - **Price:** USD 14.99
-- **Availability:** Digital download on App Lab via Meta Quest store:
-- **Store link:** <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media</a>
+- **Availability:** Digital download on App Lab via Meta Quest:
+- **Store link (to wishlist):** <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media</a>
 - **Store link DEMO:** <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media</a>
 - **Languages:** English
 - **File Size:** 4.88GB(full), 2.02GB(demo)
@@ -64,13 +63,13 @@ With multiple beautiful courses with varying biomes you may find yourself stoppi
 
 Dream Nerdy is an independent game development studio founded in early 2020. We are dedicated to developing games that prioritize the gamer’s experience and immersion.
 
-We started development of OTCDG roughly two years ago for VR. At the time there were not any worth while VR disc golf games, and we knew we wanted bring everyone this experience. There is something really magical about being fully immersed and lining up your shot like you do in the real life sport. We continue to fine tune physics engines and aim to be the best Disc Golf game around with a captivating world, a fun progression system and multiplayer features.
+We started development of OTCDG roughly two years ago for VR. At the time there were not any VR disc golf games and we knew we wanted bring everyone this experience. There is something really magical about being fully immersed and lining up your shot like you do in the real life sport. We continue to fine tune our physics implementation and aim to be the best Disc Golf game around with a captivating world, a fun progression system and multiplayer features.
 
 Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passion, and we think you should dream big with it.
 
 ## Launch Trailer
 
-<a href="https://www.youtube.com/watch?v=JL72q6f4jTY" target="_blank">Trailer on youtube</a>
+<a href="https://www.youtube.com/watch?v=JL72q6f4jTY" target="_blank">Trailer on YouTube</a>
 
 ## Key Art and Logos
 
