@@ -22,7 +22,7 @@ permalink: /OTCDGpresskit/
 
 ## Description
 
-<img src="/images/18.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
+<img src="/images/5.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf basket in the woods">
 Off The Chains Disc Golf is a lighthearted disc golf simulation developed for VR from the ground up. Play alone or with friends and learn how to become a disc golf pro.
 
 **Disc Physics**
@@ -75,5 +75,7 @@ Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passio
 ## Key Art and Logos
 
 [Download Screenshots .zip](/images/OTCDG_Screenshots.zip)
+
+[Download Screenshots2 .zip](/images/OTCDG_Screenshots2.zip)
 
 [Download Logos .zip](/images/OTCDG-DreamNerdy_Logos.zip)
