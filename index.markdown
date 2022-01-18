@@ -7,14 +7,13 @@ layout: home
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=JL72q6f4jTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote>Available on App Lab via Meta Quest store:
-</br>
+
 <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a>
 or
 <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Wishlist Now</a>
-</br>
-</br>
+ 
 Also Available through Steam and Rift Stores:
-</br>
+
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
 and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus Rift</a>. 
  
