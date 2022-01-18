@@ -16,7 +16,7 @@ permalink: /OTCDGpresskit/
 - **Languages:** English
 - **File Size:** 4.88GB(full), 2.02GB(demo)
 - **Press contact:** <a href="mailto:contact@dreamnerdy.com">contact@dreamnerdy.com</a>
-- **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/dreamnerdy" title="Find Us On Facebook" target="_blank">Facebook</a>
+- **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/offthechainsdiscgolf" title="Find Us On Facebook" target="_blank">Facebook</a>
 
 
 ## Description
