@@ -4,17 +4,24 @@
 
 layout: home
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/maf_AZj2MgQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JL72q6f4jTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<blockquote> Available now on
+<blockquote>Available on App Lab via Meta Quest store:
+
+<a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a>
+or
+<a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Wishlist Now</a>
+</blockquote>
+<blockquote>
+Also Available through Steam and Rift Stores for PC VR:
+
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
-and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus Rift</a> stores. Coming soon to Oculus Quest/Quest 2! Join our
-<a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>
- for updates!
+and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus Rift</a>. 
+ 
 </blockquote>
 
 <h4 style="text-align: center;">Play Disc Golf from the comfort of your own home</h4>
-<a href="/images/18.png"><img src="/images/18.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
+<a href="/images/5.png"><img src="/images/5.png" style="width: 40%; float: left; margin-right: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; margin-left: auto; margin-bottom: 3em;">
     <p style="margin-top: 14%; margin-bottom: 10%; "><em>Veterans and newcomers alike will appreciate our realistic disc physics.</em></p>
 </div>
@@ -23,7 +30,7 @@ and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="
 <div style="width: 60%; text-align: right;">
     <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played.</em></p>
 </div>
-<h4 style="text-align: center;">All major PC VR headsets supported!</h4>
+<h4 style="text-align: center;">All major VR headsets supported!</h4>
 ![Disc Golf Virtual Reality Game](/images/CoverImageHeroSMALL.png)
 
 

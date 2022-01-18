@@ -7,21 +7,21 @@ permalink: /OTCDGpresskit/
 ## Fact Sheet
 
 - **Developer:** Dream Nerdy
-- **Release Date:** 11/12/20
-- **Platforms:** Valve Index, HTC Vive, Oculus Rift / S, Oculus Quest + Link, Windows Mixed Reality
+- **Release Date:** March 3rd, 2022
 - **Website:** <a href="https://dreamnerdy.com/" target="_blank">dreamnerdy.com</a>
-- **Price:** USD 19.99
-- **Availability:** Digital download on Steam
-- **Store link:** <a href="https://store.steampowered.com/app/1372700/Off_The_Chains_Disc_Golf/" target="_blank">https://store.steampowered.com/app/1372700/Off_The_Chains_Disc_Golf/</a>
+- **Price:** USD 14.99
+- **Availability:** Digital download on App Lab via Meta Quest
+- **Store link (to wishlist):** <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media</a>
+- **Store link DEMO:** <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media</a>
 - **Languages:** English
-- **File Size:** 3.5GB, 2.6GB installer
+- **File Size:** 4.88GB(full), 2.02GB(demo)
 - **Press contact:** <a href="mailto:contact@dreamnerdy.com">contact@dreamnerdy.com</a>
-- **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/dreamnerdy" title="Find Us On Facebook" target="_blank">Facebook</a>
+- **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/offthechainsdiscgolf" title="Find Us On Facebook" target="_blank">Facebook</a>
 
 
 ## Description
 
-<img src="/images/18.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
+<img src="/images/5.png" style="float: left; width: 50%; margin: 1em 1em .5em 0; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf basket in the woods">
 Off The Chains Disc Golf is a lighthearted disc golf simulation developed for VR from the ground up. Play alone or with friends and learn how to become a disc golf pro.
 
 **Disc Physics**
@@ -37,39 +37,39 @@ The best part of disc golf? Playing with your friends of course. Enjoy all playa
 
 <img src="/images/9.png" style="float: right; width: 50%; margin: 1em 0 .5em 1em; border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
 
-Throughout the course of the game you will unlock new discs and new disc bags. Customize the collection that you want to take with you on your next round.
+Throughout the course of the game you will earn Chain Link points to unlock new discs. Customize the collection that you want to take with you on your next round.
 
 **Take In The Scenery**
 
-With multiple beautiful courses with varying biomes you may find yourself stopping to just enjoy the scenery, and there's certainly nothing wrong with that! This simulation is designed to be relaxing and enjoyable. Take all the time you need. Breathe. Throw discs. Repeat.
+With multiple beautiful courses with varying biomes you may find yourself stopping to just enjoy the scenery. This simulation is designed to be relaxing and enjoyable, yet competitive!
 
 ## Features
 
-- Play 63 baskets across 4 courses each offering unique environments and difficulties
+- Play 117 baskets across 7 courses each offering unique environments and difficulties
 
 - Easy to learn (even if you have never played real-life disc golf) but challenging to master
 
 - Realistic disc flight physics
 
-- Discs use a 4 number rating system that will be familiar to disc golf enthusiasts (speed, glide, turn, and fade)
+- Discs use a 4 number rating system (speed, glide, turn, and fade)
 
 - Multiplayer support to connect with your friends across the world casually, competitively, or just to practice
 
-- Discover new discs and disc bags as you progress through the game
+- Discover new discs as you progress through the game
 
 <img src="/images/2.png" style="border: 1px solid #000; border-radius: 1em;" alt="Image of disc golf accessories on a table">
 
 ## History
 
-Dream Nerdy is an independent game development studio founded in early 2020. We are dedicated to developing games where we think about the gamer’s experience first.
+Dream Nerdy is an independent game development studio founded in early 2020. We are dedicated to developing games that prioritize the gamer’s experience and immersion.
 
-We started development of OTCDG roughly a year ago and at that time there weren’t any other disc golf games available for PC (either VR or non-VR). Since that time, a few others have popped up and released. We believe we have the best contender by a longshot. We’re developing this game to be VR-first because we believe that there is something really magical about being fully immersed and lining up your shot like you do in the real life sport. Regardless, we think we’ve made the best Disc Golf game around whether it be VR or non-VR. This is not a tech demo, and not ‘just’ a simulator - this is a captivating game with a fun progression system and solid multiplayer features.
+We started development of OTCDG roughly two years ago for VR. At the time there were not any VR disc golf games and we knew we wanted bring everyone this experience. There is something really magical about being fully immersed and lining up your shot like you do in the real life sport. We continue to fine tune our physics implementation and aim to be the best Disc Golf game around with a captivating world, a fun progression system and multiplayer features.
 
 Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passion, and we think you should dream big with it.
 
 ## Launch Trailer
 
-<a href="https://youtu.be/maf_AZj2MgQ" target="_blank">Trailer on youtube</a>
+<a href="https://www.youtube.com/watch?v=JL72q6f4jTY" target="_blank">Trailer on YouTube</a>
 
 ## Key Art and Logos
 
