@@ -11,8 +11,9 @@ layout: home
 <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a>
 or
 <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Wishlist Now</a>
- 
-Also Available through Steam and Rift Stores:
+</blockquote>
+<blockquote>
+Also Available through Steam and Rift Stores for PC VR:
 
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
 and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus Rift</a>. 
