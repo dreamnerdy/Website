@@ -76,6 +76,4 @@ Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passio
 
 [Download Screenshots .zip](/images/OTCDG_Screenshots.zip)
 
-[Download Screenshots2 .zip](/images/OTCDG_Screenshots2.zip)
-
 [Download Logos .zip](/images/OTCDG-DreamNerdy_Logos.zip)
