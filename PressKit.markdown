@@ -18,6 +18,15 @@ permalink: /OTCDGpresskit/
 - **Press contact:** <a href="mailto:contact@dreamnerdy.com">contact@dreamnerdy.com</a>
 - **Social media:** <a href="https://www.reddit.com/u/dreamnerdy" title="Find Us On Reddit" target="_blank">Reddit</a> <a href="https://twitter.com/dreamnerdygames" title="Find Us On Twitter" target="_blank">Twitter</a> <a href="https://www.facebook.com/offthechainsdiscgolf" title="Find Us On Facebook" target="_blank">Facebook</a>
 
+## Launch Trailer
+
+<a href="https://www.youtube.com/watch?v=gP1oX_gCTd0" target="_blank">Trailer on YouTube</a>
+
+## Key Art and Logos
+
+[Download Screenshots .zip](/images/OTCDG_Screenshots.zip)
+
+[Download Logos .zip](/images/OTCDG-DreamNerdy_Logos.zip)
 
 ## Description
 
@@ -66,13 +75,3 @@ Dream Nerdy is an independent game development studio founded in early 2020. We 
 We started development of OTCDG roughly two years ago for VR. At the time there were not any VR disc golf games and we knew we wanted bring everyone this experience. There is something really magical about being fully immersed and lining up your shot like you do in the real life sport. We continue to fine tune our physics implementation and aim to be the best Disc Golf game around with a captivating world, a fun progression system and multiplayer features.
 
 Why “Dream Nerdy”? Everyone is Nerdy about something - you’ve got a passion, and we think you should dream big with it.
-
-## Launch Trailer
-
-<a href="https://www.youtube.com/watch?v=JL72q6f4jTY" target="_blank">Trailer on YouTube</a>
-
-## Key Art and Logos
-
-[Download Screenshots .zip](/images/OTCDG_Screenshots.zip)
-
-[Download Logos .zip](/images/OTCDG-DreamNerdy_Logos.zip)
