@@ -11,8 +11,8 @@ layout: home
 <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a> available now or 
 <a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Wishlist Now</a> for the March 3rd 2022 release date!
 </blockquote>
-<blockquote>Want to talk to us, or join the weekly weekend tournaments? Join in on the discussion on 
-<a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord<i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>!
+<blockquote>Want to meet other players or join the weekly weekend tournaments? Join our  
+<a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord <i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>!
 </blockquote>
 <blockquote>
 Also Available through Steam and Rift Stores for PC VR:
