@@ -4,19 +4,21 @@
 
 layout: home
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JL72q6f4jTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gP1oX_gCTd0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<blockquote>Available on App Lab via Meta Quest store:
+<blockquote>Available for Meta Quest 2:
 
-<a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a>
-or
-<a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Wishlist Now</a>
+<a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a> available now or 
+<a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Wishlist Now</a> for the March 3rd 2022 release date!
+</blockquote>
+<blockquote>Want to meet other players or join the weekly weekend tournaments? Join our  
+<a href="https://discord.com/invite/FSPf6AK" target="_blank">Discord <i  style="position: relative; top: 3px;" class="fab fa-fw fa-discord" aria-hidden="true"></i></a>!
 </blockquote>
 <blockquote>
 Also Available through Steam and Rift Stores for PC VR:
 
 <a href="https://store.steampowered.com/app/1372700" target="_blank">Steam<i  style="position: relative; top: 3px;" class="fab fa-fw fa-steam" aria-hidden="true"></i></a>
-and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="_blank">Oculus Rift</a>. 
+and <a href="https://www.oculus.com/experiences/rift/3166899810088080/?utm_source=media" target="_blank">Oculus Rift</a>. 
  
 </blockquote>
 
@@ -29,7 +31,7 @@ and <a href="https://www.oculus.com/experiences/rift/3166899810088080/" target="
 <a href="/images/2.png"><img src="/images/2.png" style="width: 40%; float: right; margin-left: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; text-align: right;">
     <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played.</em></p>
-</div>
+</div><br>
 <h4 style="text-align: center;">All major VR headsets supported!</h4>
 ![Disc Golf Virtual Reality Game](/images/CoverImageHeroSMALL.png)
 

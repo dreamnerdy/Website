@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-At Dream Nerdy we are dedicated to developing games where we think about the gamer’s experience first. We hope to immerse you, to challenge you, and to grow with you by pushing the concepts of what a game can be. We are also gamers ourselves watching as games evolve through time. We’re always excited to see what other developers come up with next and hope that new innovations in our own projects will excite you as well.
+At Dream Nerdy we are dedicated to developing games where we think about the gamer’s experience first. We hope to immerse you, to challenge you, and to push the concepts of what a game can be. We are also gamers ourselves watching as games evolve through time. We’re always excited to see what other developers come up with next and hope that new innovations in our own projects will excite you as well.
 
 ### Our Mission: 
 To create games that we would play ourselves.
