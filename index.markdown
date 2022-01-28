@@ -31,7 +31,7 @@ and <a href="https://www.oculus.com/experiences/rift/3166899810088080/?utm_sourc
 <a href="/images/2.png"><img src="/images/2.png" style="width: 40%; float: right; margin-left: 2em; border-radius: 15px;"></a>
 <div style="width: 60%; text-align: right;">
     <p style="margin-top: 9%;"><em>Easy to learn but challenging to master - even if you have never played.</em></p>
-</div>
+</div><br>
 <h4 style="text-align: center;">All major VR headsets supported!</h4>
 ![Disc Golf Virtual Reality Game](/images/CoverImageHeroSMALL.png)
 
