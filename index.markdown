@@ -8,7 +8,7 @@ layout: home
 
 <blockquote>Available for Meta Quest 2:
 
-<a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Buy Now</a> on the Meta Quest store for $14.99 or download the
+<a href="https://www.oculus.com/experiences/quest/4494077493957112/?utm_source=media" target="_blank">Buy Now</a> for $14.99 or download the
 <a href="https://www.oculus.com/experiences/quest/3948163865219893/?utm_source=media" target="_blank">Free Demo</a> today!
 </blockquote>
 <blockquote>Want to meet other players or join the weekly weekend tournaments? Join our  
