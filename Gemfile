@@ -15,6 +15,7 @@ gem "minimal-mistakes-jekyll"
 # We now need to explicitly include the csv and base64 gem with this version
 gem "csv"
 gem "base64"
+gem "bigdecimal"
 
 # Logger will be removed in the future, so future proofing by adding it here
 gem "logger"
