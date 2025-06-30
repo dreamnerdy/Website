@@ -22,7 +22,7 @@ permalink: /privacypolicy-otcdg/
 
 <p>We use <strong>Photon Networking by Exit Games</strong> as a third-party service provider to facilitate multiplayer gameplay. Photon may process user identifiers and session data as necessary to provide these services on our behalf.</p>
 
-<p>We do not store or retain personal data beyond what is necessary to enable these features during active gameplay sessions.</p>
+<p>We do not store or retain personal data beyond what is necessary to enable these features during active gameplay sessions.</p> 
 
 <h2>Log Data</h2>
 
