@@ -12,8 +12,9 @@ gem "jekyll", "~> 4.1.0"
 gem "minima", "~> 2.5"
 gem "minimal-mistakes-jekyll"
 
-# We now need to explicitly include the csv gem with this version
+# We now need to explicitly include the csv and base64 gem with this version
 gem "csv"
+gem "base64"
 
 # Logger will be removed in the future, so future proofing by adding it here
 gem "logger"
