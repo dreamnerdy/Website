@@ -12,6 +12,12 @@ gem "jekyll", "~> 4.1.0"
 gem "minima", "~> 2.5"
 gem "minimal-mistakes-jekyll"
 
+# We now need to explicitly include the csv gem with this version
+gem "csv"
+
+# Logger will be removed in the future, so future proofing by adding it here
+gem "logger"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
